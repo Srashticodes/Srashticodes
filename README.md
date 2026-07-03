@@ -25,7 +25,7 @@ A career guidance web app to help users explore and plan career paths.
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -33,16 +33,18 @@ A career guidance web app to help users explore and plan career paths.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI / ML**
 ![OpenAI](https://img.shields.io/badge/-LLMs%20%2F%20GenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Tools**
+**Tools & Cloud**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 > Swap/add badges to match your real stack for Cortex Desk and the agent project (e.g. LangChain, FastAPI, Docker, a vector DB) — this is prime recruiter-skim real estate.
 
@@ -55,6 +57,13 @@ A career guidance web app to help users explore and plan career paths.
 | [Sudoku Solver](https://github.com/Srashticodes/SudokuSolver_251) | Algorithmic Sudoku solver | Python, Jupyter |
 | [Customer Management App](https://github.com/Srashticodes/customermanagement-main) | Full CRUD app for managing customer records | HTML, JS |
 
+###  Certifications
+- **AWS Certified Data Engineer – Associate**
+- **AWS Certified Cloud Practitioner**
+
+<!-- VERIFY: add the issue date/credential ID or a verify link for each cert if you have one (e.g. from your AWS Certification Account / Credly badge) — recruiters do sometimes click through to verify, and a linked badge is stronger than plain text. -->
+
+
 ###  Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srashti-gupta-114b36325)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srashtigupta2005@gmail.com)
@@ -62,12 +71,9 @@ A career guidance web app to help users explore and plan career paths.
 
 ### 📈 GitHub & LeetCode Stats
 <p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=Srashticodes&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/srashtiii?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" height="165"/>
-</p>
-<!-- VERIFY: the LeetCode card above uses a third-party render service (leetcard.jacoblin.cool). If it doesn't load on your profile, an alternative is https://leetcode-stats-card.vercel.app or just linking your profile via the badge above. -->
+
 
 <!-- VERIFY: the LeetCode card above uses a third-party render service (leetcard.jacoblin.cool). If it doesn't load on your profile, an alternative is https://leetcode-stats-card.vercel.app or just linking your profile via the badge above. -->
