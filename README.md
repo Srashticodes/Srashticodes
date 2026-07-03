@@ -9,20 +9,19 @@ I build software that sits at the intersection of <b>AI/ML</b> and <b>full-stack
 
 ### 🚀 Featured Work
 
-#### 🧠 [Cortex Desk](https://github.com/Srashticodes/REPO-NAME-HERE)
-`[One-line pitch — e.g. "An AI-powered support/knowledge desk that lets teams query internal docs in natural language."]`
-**Tech:** `[e.g. React, Node.js, OpenAI API, Postgres]`
+#### 🧠 Cortex Desk
+<!-- VERIFY: confirm this description and swap in the real repo link once you send me the details -->
+An AI-powered desk/dashboard tool built to streamline how users access and act on information.
+**Tech:** *(add exact stack — e.g. React, Node.js, OpenAI API, Postgres)*
 
 #### 🤖 HackerRank Multi-Modal Agent
-`[One-line pitch — e.g. "An agent built for a HackerRank AI challenge that reasons over text, images, and audio inputs to complete tasks."]`
-**Tech:** `[e.g. Python, LangChain, GPT-4V / CLIP, FastAPI]`
-`[If this was built for a hackathon or timed challenge, say so — e.g. "Built in 48 hours for HackerRank's [Challenge Name]."]`
+<!-- VERIFY: confirm this description, add repo link, and add hackathon context if applicable -->
+An AI agent that reasons across multiple input types (text, image, and/or audio) to complete tasks, built for a HackerRank challenge.
+**Tech:** *(add exact stack — e.g. Python, LangChain, FastAPI)*
 
 #### 🧭 [CareerCompass](https://github.com/Srashticodes/CarrerCompass)
 A career guidance web app to help users explore and plan career paths.
 **Tech:** TypeScript
-
-> 📝 I've drafted these three as your headline projects since they're your most substantial work. Send me the repo links + real descriptions for Cortex Desk and the Multi-Modal Agent and I'll swap in exact tech stacks, add screenshots/demo links, and tighten the pitch lines — specific, concrete one-liners land far better with recruiters than generic ones.
 
 ---
 
@@ -54,8 +53,9 @@ A career guidance web app to help users explore and plan career paths.
 | [Customer Management App](https://github.com/Srashticodes/customermanagement-main) | Full CRUD app for managing customer records | HTML, JS |
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srashti-gupta-114b36325)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srashtigupta2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 ### 📈 GitHub Stats
 <p align="center">
