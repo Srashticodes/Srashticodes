@@ -41,7 +41,7 @@ A career guidance web app to help users explore and plan career paths.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-> Swap/add badges to match your real stack for Cortex Desk and the agent project (e.g. LangChain, FastAPI, Docker, a vector DB) — this is prime recruiter-skim real estate.
+
 
 ### 📂 Other Projects
 
@@ -53,9 +53,8 @@ A career guidance web app to help users explore and plan career paths.
 | [Customer Management App](https://github.com/Srashticodes/customermanagement-main) | Full CRUD app for managing customer records | HTML, JS |
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srashti-gupta-114b36325)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srashtigupta2005@gmail.com)
 
 ### 📈 GitHub Stats
 <p align="center">
