@@ -70,12 +70,9 @@ A career guidance web app to help users explore and plan career paths.
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/srashtiii/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/srashti_codes)
 
-### 📈 GitHub & LeetCode Stats
+### 📈 GitHub Stats
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Srashticodes&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/srashtiii?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" height="165"/>
 </p>
 
 <!-- VERIFY: the LeetCode card above uses a third-party render service (leetcard.jacoblin.cool). If it doesn't load on your profile, an alternative is https://leetcode-stats-card.vercel.app or just linking your profile via the badge above. -->
