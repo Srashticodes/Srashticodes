@@ -46,7 +46,6 @@ A career guidance web app to help users explore and plan career paths.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-> Swap/add badges to match your real stack for Cortex Desk and the agent project (e.g. LangChain, FastAPI, Docker, a vector DB) — this is prime recruiter-skim real estate.
 
 ### 📂 Other Projects
 
